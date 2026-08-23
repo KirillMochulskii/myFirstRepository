@@ -1,0 +1,25 @@
+dir                                                   List files and folders
+cd path                                               Perexod po ukazannamu puti
+cd ../                                                Saq nazad
+WIN + R => CMD                                        Terminal
+Folder path => CMD                                    Terminal s ukazannim putem
+git version                                           Versiya GIT
+/a:d                                                  Pokaji vse faysli s atributom d = Directory (papka)
+
+
+//Git
+git version                                                    Versiya GIT
+git config --global user.name "Farid Abdullayev"               Podpisivaem imya avtora
+git config --global user.email "fabdullayev902@gmail.com"      Podpisivaem pocta avtora
+git clone https://github.com/.....git                          Podqruzit proyekt
+git clone https://github.com/.....git folder                   Podqruzit proyekt v novuyu papku
+git status													   Status repozitoriya
+git add file                                                   Dobavit file v repozitory
+git add .                                                      Dobavit vse fayli i papki v tekusey papke
+git init                                                       Sozdanie repozitoriya 
+git commit -m "Moy perviy opit s git"                          Postavit nazvanie (commit)
+git push                                                       Zalit na udalenniy repozitory 
+git pull													   Podtyanut samuyu actualnuyu versiyu
+git branch                                                     Spisok lokalnix vetok
+git branch -a 												   Spisok udalennix vetok
+git checkout branchName                                        Perexod na konkretnuyu vetku
