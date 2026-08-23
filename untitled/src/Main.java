@@ -3,8 +3,7 @@ public class Main{
         System.out.println("Branch DEVEloper");
 
         System.out.println("GIT HELLO");
-        System.out.println("GIT HELLO");
-        System.out.println("GIT HELLO");
+        System.out.println("GIT");
 
 
 
